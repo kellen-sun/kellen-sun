@@ -11,7 +11,7 @@ I'm currently learning more about Javascript for web development and algorithms 
 I'm currently working on building a portfolio website.
 
 ### 📫 Contact Me:
-You can email me at [kellensun2020@gmail.com](mailto:kellensun2020@gmail.com) or [kellen.sun@uwaterloo.ca](mailto:kellen.sun@uwaterloo.ca).
+You can email me at [kellen.sun@uwaterloo.ca](mailto:kellen.sun@uwaterloo.ca).
 
 Or view my [LinkedIn](https://www.linkedin.com/in/kellen-sun/) for details about my work experience, education and projects.
 
