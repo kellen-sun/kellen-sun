@@ -6,9 +6,13 @@ I enjoy working on challenging and meaningful projects by tackling issues in rea
 
 I like to read books, draw and work out in my free time. 
 
-I'm currently learning more about Javascript for web development and algorithms for LeetCode.
+## I'm currently working on:
 
-I'm currently working on building a portfolio website.
+I'm learning about machine learning with a hands-on approach through the projects I'm building in my "Exploring_AI" repository. I like to reason and gain an intuitive understanding of how models work as mathematical objects and how they perceive the world.
+
+I'm also working on creating a poker engine which can host competitions between poker bots. 
+
+Finally, I want to spend more time learning more math especially in real analysis and linear algebra while exploring interesting problems that may arise from these subjects. I'm also planning on going through a more in-depth on modern web development stacks.
 
 ### 📫 Contact Me:
 You can email me at [kellen.sun@uwaterloo.ca](mailto:kellen.sun@uwaterloo.ca).
