@@ -1,6 +1,6 @@
 ## Hello There, I'm Kellen! 👋
 
-I'm a first-year computer science (BCs co-op, class of 2028) student at the University of Waterloo. I graduated from Earl of March S.S. in 2023.
+I'm a second-year computer science (BCs co-op, class of 2028) student at the University of Waterloo. I graduated from Earl of March S.S. in 2023.
 
 I enjoy working on challenging and meaningful projects by tackling issues in real life. I have software development experience in Python and JS. 
 
