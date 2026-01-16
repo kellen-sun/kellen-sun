@@ -8,9 +8,7 @@ I like to read books, draw and work out in my free time.
 
 ## I'm currently working on:
 
-Trying to survive coursework.
-
-Preparing to write the Putnam.
+Adding more stuff to Forge
 
 ### 📫 Contact Me:
 You can email me at [kellen.sun@uwaterloo.ca](mailto:kellen.sun@uwaterloo.ca).
