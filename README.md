@@ -8,7 +8,8 @@ I like to read books, draw and work out in my free time.
 
 ## I'm currently working on:
 
-Adding more stuff to Forge
+* Adding more stuff to Forge
+* Learning about AI hardware and systems
 
 ### 📫 Contact Me:
 You can email me at [kellen.sun@uwaterloo.ca](mailto:kellen.sun@uwaterloo.ca).
