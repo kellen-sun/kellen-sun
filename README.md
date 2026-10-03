@@ -1,7 +1,7 @@
 ## Hello There, I'm Kellen! 👋
 
 I'm a computer science student at the University of Waterloo (class of '28).
-I enjoy solving difficult problems in ML systems and compilers. Previously, I worked at Ford on systems software, at EnchargeAI, where I built features in the ML compiler, and at Aven on the checking account, travel portal, and checking + credit card account bundle. I'm planning to intern on the AI compilers team at Tesla in winter 2027 and as an ML engineer at Jane Street in summer 2027.
+I enjoy solving difficult problems in ML systems and compilers. Previously, I worked at Ford on systems software, at EnchargeAI, where I built features in the ML compiler, and at Aven on the checking account, travel portal, and checking + credit card account bundle. I'm planning to intern on the AI compilers team at Tesla in winter 2027.
 I also made Forge, a Python tensor library for Apple Silicon GPUs with custom kernels.
 
 I like to read books, draw, play the guitar and workout in my free time. 
